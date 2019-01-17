@@ -1,3 +1,3 @@
 # calculadora_imc
 
-A new Flutter application.
+A Flutter application for calculating your BMI(Body Mass Index).
